@@ -1,0 +1,8 @@
+Different Pages and Routing
+
+Make new Pages
+Route to them and pass information.
+Creating a MongoDB Database
+Mongoose connection
+Populating with Data
+Showing Data on page

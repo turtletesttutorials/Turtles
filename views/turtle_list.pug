@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= title
+  p This is my #{title}
+  p This is where I display my turtles.
+  ul 
+    each turtle in turtle_list 
+      li #{turtle.name}
